@@ -70,7 +70,7 @@ class Engine:
 
 
         self.update_price(self.affordable_upgrades)
-
+#
 
 timeout = time.time() + 5
 
